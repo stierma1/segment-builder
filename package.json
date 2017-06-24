@@ -1,0 +1,26 @@
+{
+  "name": "segment-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/segment-builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/segment-builder/issues"
+  },
+  "homepage": "https://github.com/stierma1/segment-builder#readme",
+  "dependencies": {
+    "spatial-relationships-169": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
